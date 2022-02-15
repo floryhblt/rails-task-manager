@@ -1,0 +1,28 @@
+@import "bootstrap/scss/bootstrap";
+
+.tasks-list{
+  list-style: none;
+}
+
+body {
+  margin: 15px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.btn {
+  a {  
+  color: #FFFFFF !important;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
+}
